@@ -1,4 +1,5 @@
 # GymnasieProjekt
-Återvinningsapp Gymnasie Project
+Recycling App Project 2023-09
 
-Denna Github ska ha funktion som en sekundär tidsrapport för att hjälpa mig i slutet men dessutom för att vara hjälpmedel så jag kan hålla koll på vad jag har gjort och inte gjort
+This github will have a primary and a secondary function. The secondary function will be a second time report to be evidence for this project and that I have spent time on it
+The primary function will the commits, files and so forth to see what it being done and what is not.
